@@ -8,7 +8,7 @@ import { useNavigation } from "@react-navigation/core";
 import RadioGroup from 'react-native-radio-buttons-group';
 
 const App = () => {
-
+//checking git cmmmd
   const [isLoading, setisLoading] = useState(false);
   const [showModal, setShowModal] = useState(false);
   const [textList, setTextList] = useState([]);
